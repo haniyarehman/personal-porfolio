@@ -1,0 +1,1507 @@
+/*
+	@name desktop___2
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 4292px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 4292px;
+	background:rgba(223,205,191,1);
+}
+
+
+#rectangle_370 {
+	top: 160px;
+	left: 892px;
+	width: 389px;
+	height: 438px;
+}
+
+
+#unnamed__1__2 {
+	top: 218px;
+	left: 832px;
+	width: 389px;
+	height: 438px;
+}
+
+
+#haniya {
+	top: 289px;
+	left: 267px;
+	width: 514px;
+	height: 120px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 110px;
+	text-align: left;
+	line-height: 60px;
+	padding-top: 50px;
+	margin-top: -50px;
+	color:#5C3E39;
+}
+
+
+#rahman {
+	top: 357px;
+	left: 507px;
+	width: 323px;
+	height: 100px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 50px;
+	text-align: left;
+	line-height: 60px;
+	color:#4A3B39;
+}
+
+
+#a_computer_science_student_at_fisat {
+	top: 410px;
+	left: 268px;
+	width: 585.8px;
+	height: 48.8px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 28px;
+	text-align: left;
+	line-height: 35px;
+	color:#553232;
+}
+
+
+#rectangle_372 {
+	opacity:0.6700000166893;
+	top: 465px;
+	left: 221px;
+	width: 250px;
+	height: 80px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(131,155,92,0.67);
+}
+
+
+#about_me {
+	top: 475px;
+	left: 299px;
+	width: 121px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	line-height: 60px;
+	margin-top: -13.333333333333px;
+	height: 67px;
+	color:#FFFFFF;
+}
+
+
+#hello__i_m_haniya_rahman__a_computer_science_engineering_student_at_fisat__currently__i_am_exploring_the_realms_of_design_as_a_ui_ux_and_graphic_design_intern_at_gamerstag__i_m_passionate_about_creating_immersive_and_user_centric_experiences__my_journey_in_technology_and_design_has_led_me_to_become_a_creative_and_adaptable_individual_who_thrives_on_challenges_and_loves_to_pour_my_enthusiasm_into_my_work__my_goal_is_to_craft_meaningful_and_visually_appealing_designs_that_not_only_solve_problems_but_also_elevate_the_user_s_experience__as_a_tech_enthusiast__i_m_constantly_learning_and_evolving_to_keep_up_with_the_ever_changing_landscape_of_design_and_technology_ {
+	top: 710px;
+	left: 165px;
+	width: 1136px;
+	height: 353px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	line-height: 40px;
+	margin-top: -6.6666666666667px;
+	height: 373px;
+	color:#583434;
+}
+
+
+#vector {
+	top: 22px;
+	left: 19px;
+	width: 78px;
+	height: 78px;
+}
+
+
+#what_can_i_do_for_you__ {
+	top: 1137px;
+	left: 172px;
+	width: 578px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#9A5F5F;
+}
+
+
+#projects {
+	top: 1769px;
+	left: 172px;
+	width: 211px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#9A5F5F;
+}
+
+
+#lets_get_in_touch_ {
+	top: 3263px;
+	left: 166px;
+	width: 527px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#9A5F5F;
+}
+
+#group_2412 {
+	top: 1241px;
+	left: 165px;
+	width: 326px;
+	height: 424px;
+}
+
+#_bg__group_2412_ek1 {
+	top: -1241px;
+	left: -165px;
+	width: 326px;
+	height: 424px;
+	background:#;
+}
+
+
+#rectangle_373 {
+	opacity:0;
+	top: -1px;
+	left: -1px;
+	width: 326px;
+	height: 424px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:rgba(217,217,217,0);
+}
+
+
+#ui_ux_designing {
+	top: 154px;
+	left: 14px;
+	width: 251px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 30px;
+	text-align: left;
+	color:#583434;
+}
+
+
+#image_41 {
+	top: 37px;
+	left: 30px;
+	width: 42.71px;
+	height: 65px;
+}
+
+
+#working_as_an_intern_at_gamertag_has_improvised_my_user_interface_design_skills_using_figma {
+	top: 205px;
+	left: 14px;
+	width: 314.2px;
+	height: 177px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	color:#583434;
+}
+
+#group_2415 {
+	top: 1241px;
+	left: 561px;
+	width: 327.11px;
+	height: 424px;
+}
+
+#_bg__group_2415_ek1 {
+	top: -1241px;
+	left: -561px;
+	width: 327.11px;
+	height: 424px;
+	background:#;
+}
+
+#group_2413 {
+	top: 0px;
+	left: 0px;
+	width: 327.11px;
+	height: 424px;
+}
+
+#_bg__group_2413_ek1 {
+	top: -1241px;
+	left: -561px;
+	width: 327.11px;
+	height: 424px;
+	background:#;
+}
+
+
+#rectangle_375 {
+	opacity:0;
+	top: -1px;
+	left: -1px;
+	width: 326px;
+	height: 424px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:rgba(217,217,217,0);
+}
+
+
+#web_development {
+	top: 151px;
+	left: 13px;
+	width: 337.11px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 30px;
+	text-align: left;
+	color:#583434;
+}
+
+
+#image_42 {
+	top: 33px;
+	left: 19px;
+	width: 59.62px;
+	height: 69px;
+}
+
+
+#using_html__css__javascript_and_bootstrap_i_have_the_knowledge_of_creating_user_friendly_websites_ {
+	top: 204px;
+	left: 13px;
+	width: 317px;
+	height: 90px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	color:#583434;
+}
+
+#group_2414 {
+	top: 1241px;
+	left: 957px;
+	width: 334.11px;
+	height: 424px;
+}
+
+#_bg__group_2414_ek1 {
+	top: -1241px;
+	left: -957px;
+	width: 334.11px;
+	height: 424px;
+	background:#;
+}
+
+
+#rectangle_374 {
+	opacity:0;
+	top: -1px;
+	left: -1px;
+	width: 326px;
+	height: 424px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:rgba(217,217,217,0);
+}
+
+
+#illustrations {
+	top: 146px;
+	left: 20px;
+	width: 337.11px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 30px;
+	text-align: left;
+	color:#583434;
+}
+
+
+#image_43 {
+	top: 33px;
+	left: 20px;
+	width: 57.84px;
+	height: 65px;
+}
+
+
+#creating_and_drawing_illustrations_using_adobe_illustrator_and_editing_and_modifying_images_using_adobe_photoshop_ {
+	top: 198px;
+	left: 16px;
+	width: 310.64px;
+	height: 232px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	color:#583434;
+}
+
+#group_2407 {
+	top: 2527px;
+	left: 135px;
+	width: 356px;
+	height: 455px;
+}
+
+#_bg__group_2407_ek1 {
+	top: -2527px;
+	left: -135px;
+	width: 356px;
+	height: 455px;
+	background:#;
+}
+
+
+#rectangle_379 {
+	opacity:0.23000000417233;
+	top: 0px;
+	left: 0px;
+	width: 356px;
+	height: 455px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(88.19,52.55,52.55,0.23);
+}
+
+
+#working_as_a_graphic_designer_and_ui_ux_intern_as_a_part_time_internship_duration__september_2023___present {
+	top: 223px;
+	left: 38px;
+	width: 304px;
+	height: 197px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	color:#583535;
+}
+
+
+#graphics_design_and_ui_ux_intern_in_gamers_tag_private_limited_ {
+	top: 30px;
+	left: 35px;
+	width: 302px;
+	height: 181px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 30px;
+	text-align: left;
+	color:#553232;
+}
+
+#group_2401 {
+	top: 465px;
+	left: 499px;
+	width: 250px;
+	height: 80px;
+}
+
+#_bg__group_2401_ek1 {
+	top: -465px;
+	left: -499px;
+	width: 250px;
+	height: 80px;
+	background:#;
+}
+
+#group_2398 {
+	top: 0px;
+	left: 0px;
+	width: 250px;
+	height: 80px;
+}
+
+#_bg__group_2398_ek1 {
+	top: -465px;
+	left: -499px;
+	width: 250px;
+	height: 80px;
+	background:#;
+}
+
+
+#rectangle_372_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 250px;
+	height: 80px;
+}
+
+
+#lets_talk_ {
+	top: 10px;
+	left: 89px;
+	width: 105px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	line-height: 60px;
+	margin-top: -13.333333333333px;
+	height: 63px;
+	color:#FFFFFF;
+}
+
+#group_2411 {
+	top: 1867px;
+	left: 165px;
+	width: 514px;
+	height: 494px;
+}
+
+#_bg__group_2411_ek1 {
+	top: -1867px;
+	left: -165px;
+	width: 514px;
+	height: 494px;
+	background:#;
+}
+
+
+#rectangle_377 {
+	opacity:0.5;
+	top: 0px;
+	left: 0px;
+	width: 514px;
+	height: 494px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(131,155,92,0.5);
+}
+
+
+#website_for_booking_cabs {
+	top: 50px;
+	left: 79px;
+	width: 370px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 30px;
+	text-align: left;
+	color:#553232;
+}
+
+
+#collaborated_with_few_classmates_to_create_a_cab_booking_website_with_html__css__bootstrap_5__javascript__php__and_mysql__our_platform_utilizes_a_database_of_cab_driver_information__allowing_users_to_select_the_nearest_driver_for_convenient_bookings__skills__html___css___javascript___php___mysql___bootstrap_5 {
+	top: 126px;
+	left: 42px;
+	width: 448px;
+	height: 280px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	color:#583535;
+}
+
+#group_2410 {
+	top: 1867px;
+	left: 766px;
+	width: 514px;
+	height: 494px;
+}
+
+#_bg__group_2410_ek1 {
+	top: -1867px;
+	left: -766px;
+	width: 514px;
+	height: 494px;
+	background:#;
+}
+
+
+#rectangle_378 {
+	opacity:0.5;
+	top: 0px;
+	left: 0px;
+	width: 514px;
+	height: 494px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(131,155,92,0.5);
+}
+
+
+#laundry_management_system {
+	top: 49px;
+	left: 64px;
+	width: 412px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 30px;
+	text-align: left;
+	color:#583434;
+}
+
+
+#collaborated_on_a_team_project_to_create_a_user_friendly_website_for_reserving_laundry_slots_in_our_college_dorm__our_system_operates_similar_to_movie_ticket_booking_or_calendly__enabling_students_to_select_their_preferred_day_and_time_for_laundry__we_integrated_push_notifications_to_alert_students_when_their_laundry_is_complete__skills__html___css {
+	top: 126px;
+	left: 36px;
+	width: 460px;
+	height: 278px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	color:#583535;
+}
+
+
+#rectangle_360 {
+	top: 3787px;
+	left: 179px;
+	width: 1101px;
+	height: 290px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #583535;
+	background:rgba(255,255,255,0);
+}
+
+
+#name {
+	top: 3393px;
+	left: 205px;
+	width: 190px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	line-height: 35px;
+	margin-top: -5px;
+	height: 61px;
+	color:#583434;
+}
+
+
+#message {
+	top: 3516px;
+	left: 205px;
+	width: 218px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	line-height: 35px;
+	margin-top: -5px;
+	height: 63px;
+	color:#583434;
+}
+
+
+#email {
+	top: 3394px;
+	left: 582px;
+	width: 166px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	line-height: 35px;
+	margin-top: -5px;
+	height: 61px;
+	color:#583434;
+}
+
+
+#mobile_number {
+	top: 3393px;
+	left: 954px;
+	width: 281px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	line-height: 35px;
+	margin-top: -5px;
+	height: 61px;
+	color:#583434;
+}
+
+#group_2402 {
+	top: 3834px;
+	left: 177px;
+	width: 256.13px;
+	height: 88px;
+}
+
+#_bg__group_2402_ek1 {
+	top: -3834px;
+	left: -177px;
+	width: 256.13px;
+	height: 88px;
+	background:#;
+}
+
+
+#rectangle_379_ek1 {
+	opacity:0.49000000953674;
+	top: 0px;
+	left: 0px;
+	width: 256.13px;
+	height: 88px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(131,155,92,0.49);
+}
+
+
+#send_message {
+	top: 14px;
+	left: 53px;
+	width: 194.98px;
+	height: 48.5px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 25px;
+	text-align: left;
+	line-height: 60px;
+	margin-top: -11.666666666667px;
+	height: 73.5px;
+	color:#FFFFFF;
+}
+
+#group_2393 {
+	top: 4125px;
+	left: -240px;
+	width: 1920px;
+	height: 93px;
+}
+
+#_bg__group_2393_ek1 {
+	top: -4125px;
+	left: 240px;
+	width: 1920px;
+	height: 93px;
+	background:#;
+}
+
+
+#image_2 {
+	top: 42px;
+	left: 934px;
+	width: 51px;
+	height: 51px;
+	background:rgba(255,255,255,0);
+}
+
+
+#follow {
+	top: 0px;
+	left: 908px;
+	width: 125.5px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#vector_68 {
+	top: 63px;
+	left: 1085px;
+	width: 594px;
+	height: 8px;
+}
+
+
+#vector_67 {
+	top: 65px;
+	left: -1px;
+	width: 595px;
+	height: 8px;
+}
+
+
+#experiences {
+	top: 2446px;
+	left: 165px;
+	width: 267px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#9A5F5F;
+}
+
+#group_2419 {
+	top: 2680px;
+	left: 975px;
+	width: 356px;
+	height: 455px;
+}
+
+#_bg__group_2419_ek1 {
+	top: -2680px;
+	left: -975px;
+	width: 356px;
+	height: 455px;
+	background:#;
+}
+
+#group_2408 {
+	top: 0px;
+	left: 0px;
+	width: 356px;
+	height: 455px;
+}
+
+#_bg__group_2408_ek1 {
+	top: -2680px;
+	left: -975px;
+	width: 356px;
+	height: 455px;
+	background:#;
+}
+
+
+#rectangle_380 {
+	opacity:0.28000000119209;
+	top: 0px;
+	left: 0px;
+	width: 356px;
+	height: 455px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(88.19,52.55,52.55,0.28);
+}
+
+
+#data_entry_specialist_in_centillion_global_ventures_pvt_ltd {
+	top: 30px;
+	left: 42px;
+	width: 302px;
+	height: 138px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 30px;
+	text-align: left;
+	color:#553232;
+}
+
+
+#worked_at_centillion_global_ventures_for_data_entry_as_a_part_time_job_duration__june_2020___june_2021 {
+	top: 216px;
+	left: 38px;
+	width: 304px;
+	height: 197px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	color:#583535;
+}
+
+#group_2409 {
+	top: 2602px;
+	left: 555px;
+	width: 356px;
+	height: 455px;
+}
+
+#_bg__group_2409_ek1 {
+	top: -2602px;
+	left: -555px;
+	width: 356px;
+	height: 455px;
+	background:#;
+}
+
+
+#rectangle_381 {
+	opacity:0.28000000119209;
+	top: 0px;
+	left: 0px;
+	width: 356px;
+	height: 455px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(88.19,52.55,52.55,0.28);
+}
+
+
+#media_and_documentation_head_at_iedc_fisat {
+	top: 30px;
+	left: 40px;
+	width: 302px;
+	height: 138px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 30px;
+	text-align: left;
+	color:#553232;
+}
+
+
+#managed_the_official_instagram_account_of_iedc_fisat_and_incharge_of_the_documentation_work__duration__july_2021___september_2023 {
+	top: 210px;
+	left: 40px;
+	width: 304px;
+	height: 197px;
+	overflow: hidden;
+	font-family: Jost;
+	font-size: 20px;
+	text-align: left;
+	color:#583535;
+}
+
+
+#rectangle_382 {
+	opacity:0;
+	top: 3376px;
+	left: 179px;
+	width: 351px;
+	height: 69px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:rgba(217,217,217,0);
+}
+
+
+#rectangle_383 {
+	opacity:0;
+	top: 3375px;
+	left: 554px;
+	width: 351px;
+	height: 69px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:rgba(217,217,217,0);
+}
+
+
+#rectangle_384 {
+	opacity:0;
+	top: 3376px;
+	left: 929px;
+	width: 351px;
+	height: 69px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:rgba(217,217,217,0);
+}
+
+
+#vector_73 {
+	top: 609.7px;
+	left: 478.69px;
+	width: 3.33px;
+	height: 3.25px;
+}
+
+#group_2420 {
+	top: 584px;
+	left: 397px;
+	width: 39px;
+	height: 39px;
+}
+
+#_bg__group_2420_ek1 {
+	top: -584px;
+	left: -397px;
+	width: 39px;
+	height: 39px;
+	background:#;
+}
+
+
+#ellipse_14 {
+	top: 4px;
+	left: 4px;
+	width: 23.4px;
+	height: 23.4px;
+}
+
+
+#vector_69 {
+	top: -3px;
+	left: -3px;
+	width: 42px;
+	height: 42px;
+}
+
+
+#ellipse_15 {
+	top: 6px;
+	left: 29px;
+	width: 4.46px;
+	height: 4.46px;
+	-ms-border-radius: 2.23px / 2.23px;
+	-o-border-radius: 2.23px / 2.23px;
+	-moz-border-radius: 2.23px / 2.23px;
+	-webkit-border-radius: 2.23px / 2.23px;
+	border-radius: 2.23px / 2.23px;
+	background:rgba(255,255,255,1);
+}
+
+#group_2422 {
+	top: 583px;
+	left: 541px;
+	width: 39px;
+	height: 39px;
+}
+
+#_bg__group_2422_ek1 {
+	top: -583px;
+	left: -541px;
+	width: 39px;
+	height: 39px;
+	background:#;
+}
+
+
+#ellipse_17 {
+	top: 0px;
+	left: 0px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 19.5px / 19.5px;
+	-o-border-radius: 19.5px / 19.5px;
+	-moz-border-radius: 19.5px / 19.5px;
+	-webkit-border-radius: 19.5px / 19.5px;
+	border-radius: 19.5px / 19.5px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_388 {
+	top: 12px;
+	left: 9px;
+	width: 21.25px;
+	height: 14.85px;
+}
+
+
+#polygon_1 {
+	top: 14px;
+	left: 15px;
+	width: 5.73px;
+	height: 6.6px;
+}
+
+#group_2424 {
+	top: 584px;
+	left: 471px;
+	width: 39px;
+	height: 39px;
+}
+
+#_bg__group_2424_ek1 {
+	top: -584px;
+	left: -471px;
+	width: 39px;
+	height: 39px;
+	background:#;
+}
+
+#group_2421 {
+	top: 0px;
+	left: 0px;
+	width: 39px;
+	height: 39px;
+}
+
+#_bg__group_2421_ek1 {
+	top: -584px;
+	left: -471px;
+	width: 39px;
+	height: 39px;
+	background:#;
+}
+
+
+#vector_70 {
+	top: -1px;
+	left: -1px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#ellipse_16 {
+	top: 7px;
+	left: 8px;
+	width: 6.43px;
+	height: 6.5px;
+	-ms-border-radius: 3.21px / 3.25px;
+	-o-border-radius: 3.21px / 3.25px;
+	-moz-border-radius: 3.21px / 3.25px;
+	-webkit-border-radius: 3.21px / 3.25px;
+	border-radius: 3.21px / 3.25px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_385 {
+	top: 16px;
+	left: 9px;
+	width: 4px;
+	height: 14.5px;
+}
+
+
+#rectangle_386 {
+	top: 16px;
+	left: 16px;
+	width: 4.71px;
+	height: 14.3px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_387 {
+	top: 18px;
+	left: 26px;
+	width: 6px;
+	height: 12px;
+	background:rgba(255,255,255,1);
+}
+
+
+#vector_71 {
+	top: 13px;
+	left: 18px;
+	width: 6.77px;
+	height: 6.62px;
+}
+
+
+#vector_72 {
+	top: 13px;
+	left: 21px;
+	width: 9.17px;
+	height: 6.73px;
+}
+
+
+#vector_74 {
+	top: 25px;
+	left: 15px;
+	width: 3.37px;
+	height: 3.43px;
+}
+
+
+#vector_75 {
+	top: 25px;
+	left: 14px;
+	width: 3.92px;
+	height: 3.6px;
+}
+
+
+#vector_76 {
+	top: 26px;
+	left: 16px;
+	width: 3.1px;
+	height: 3.38px;
+}
+
+
+#vector_77 {
+	top: 25px;
+	left: 26px;
+	width: 3.43px;
+	height: 3.82px;
+}
+
+
+#vector_78 {
+	top: 25px;
+	left: 27px;
+	width: 3.18px;
+	height: 3.5px;
+}
+
+
+#rectangle_389 {
+	opacity:0;
+	top: -3px;
+	left: -3px;
+	width: 39px;
+	height: 39px;
+	-ms-border-radius: 9px;
+	-o-border-radius: 9px;
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	border: 3px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+#group_2423 {
+	top: 4169px;
+	left: 623px;
+	width: 51px;
+	height: 51px;
+}
+
+#_bg__group_2423_ek1 {
+	top: -4169px;
+	left: -623px;
+	width: 51px;
+	height: 51px;
+	background:#;
+}
+
+
+#ellipse_14_ek1 {
+	top: 6px;
+	left: 6px;
+	width: 30.6px;
+	height: 30.6px;
+}
+
+
+#vector_69_ek1 {
+	top: -3px;
+	left: -3px;
+	width: 54px;
+	height: 54px;
+}
+
+
+#ellipse_15_ek1 {
+	top: 7px;
+	left: 38px;
+	width: 5.83px;
+	height: 5.83px;
+	-ms-border-radius: 2.91px / 2.91px;
+	-o-border-radius: 2.91px / 2.91px;
+	-moz-border-radius: 2.91px / 2.91px;
+	-webkit-border-radius: 2.91px / 2.91px;
+	border-radius: 2.91px / 2.91px;
+	background:rgba(255,255,255,1);
+}
+
+#group_2422_ek2 {
+	top: 4167px;
+	left: 695px;
+	width: 51px;
+	height: 51px;
+}
+
+#_bg__group_2422_ek3 {
+	top: -4167px;
+	left: -695px;
+	width: 51px;
+	height: 51px;
+	background:#;
+}
+
+
+#ellipse_17_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 51px;
+	height: 51px;
+	-ms-border-radius: 25.5px / 25.5px;
+	-o-border-radius: 25.5px / 25.5px;
+	-moz-border-radius: 25.5px / 25.5px;
+	-webkit-border-radius: 25.5px / 25.5px;
+	border-radius: 25.5px / 25.5px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_388_ek1 {
+	top: 15px;
+	left: 12px;
+	width: 27.79px;
+	height: 19.42px;
+}
+
+
+#polygon_1_ek1 {
+	top: 19px;
+	left: 20px;
+	width: 7.5px;
+	height: 8.63px;
+}
+
+#group_2424_ek2 {
+	top: 4167px;
+	left: 767px;
+	width: 51px;
+	height: 51px;
+}
+
+#_bg__group_2424_ek3 {
+	top: -4167px;
+	left: -767px;
+	width: 51px;
+	height: 51px;
+	background:#;
+}
+
+#group_2421_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 51px;
+	height: 51px;
+}
+
+#_bg__group_2421_ek3 {
+	top: -4167px;
+	left: -767px;
+	width: 51px;
+	height: 51px;
+	background:#;
+}
+
+
+#vector_70_ek1 {
+	top: -1px;
+	left: -1px;
+	width: 52px;
+	height: 52px;
+}
+
+
+#ellipse_16_ek1 {
+	top: 9px;
+	left: 10px;
+	width: 8.41px;
+	height: 8.5px;
+	-ms-border-radius: 4.2px / 4.25px;
+	-o-border-radius: 4.2px / 4.25px;
+	-moz-border-radius: 4.2px / 4.25px;
+	-webkit-border-radius: 4.2px / 4.25px;
+	border-radius: 4.2px / 4.25px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_385_ek1 {
+	top: 20px;
+	left: 12px;
+	width: 5.23px;
+	height: 18.96px;
+}
+
+
+#rectangle_386_ek1 {
+	top: 20px;
+	left: 21px;
+	width: 6.16px;
+	height: 18.7px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_387_ek1 {
+	top: 24px;
+	left: 34px;
+	width: 7.85px;
+	height: 15.69px;
+	background:rgba(255,255,255,1);
+}
+
+
+#vector_71_ek1 {
+	top: 18px;
+	left: 24px;
+	width: 7.93px;
+	height: 7.73px;
+}
+
+
+#vector_72_ek1 {
+	top: 18px;
+	left: 29px;
+	width: 11.07px;
+	height: 7.88px;
+}
+
+
+#vector_74_ek1 {
+	top: 34px;
+	left: 21px;
+	width: 3.48px;
+	height: 3.56px;
+}
+
+
+#vector_75_ek1 {
+	top: 34px;
+	left: 20px;
+	width: 4.2px;
+	height: 3.79px;
+}
+
+
+#vector_76_ek1 {
+	top: 35px;
+	left: 22px;
+	width: 3.13px;
+	height: 3.49px;
+}
+
+
+#vector_77_ek1 {
+	top: 34px;
+	left: 35px;
+	width: 3.56px;
+	height: 4.07px;
+}
+
+
+#vector_78_ek1 {
+	top: 34px;
+	left: 36px;
+	width: 3.23px;
+	height: 3.66px;
+}
+
+
+#rectangle_389_ek1 {
+	opacity:0;
+	top: -3px;
+	left: -3px;
+	width: 51px;
+	height: 51px;
+	-ms-border-radius: 9px;
+	-o-border-radius: 9px;
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	border: 3px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+#group_2425 {
+	top: 3906px;
+	left: 1181px;
+	width: 100px;
+	height: 95.17px;
+}
+
+#_bg__group_2425_ek1 {
+	top: -3906px;
+	left: -1181px;
+	width: 100px;
+	height: 95.17px;
+	background:#;
+}
+
+
+#ellipse_13 {
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 95.17px;
+	-ms-border-radius: 50px / 47.59px;
+	-o-border-radius: 50px / 47.59px;
+	-moz-border-radius: 50px / 47.59px;
+	-webkit-border-radius: 50px / 47.59px;
+	border-radius: 50px / 47.59px;
+	background:rgba(88.19,52.55,52.55,1);
+}
+
+
+#vector_79 {
+	top: 26px;
+	left: 29px;
+	width: 35.01px;
+	height: 36.96px;
+}
+
+
+
+/* Add your custom CSS here */
